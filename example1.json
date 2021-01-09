@@ -1,0 +1,30 @@
+{
+    "communities": [
+        {
+            "eventId": "3",
+            "communityName": "Socio Trial Community1",
+            "coverImage": "https://www.creativiva.com/wp-content/uploads/2016/05/decor-blog-1.jpg"
+        },
+        {
+            "eventId": "4",
+            "communityName": "Socio Trial Community2",
+            "coverImage": "https://cdn.filestackcontent.com/mZZw7vYMSLiRzgQdgQZV"
+        }
+    ],
+    "features": [
+        {
+            "eventId": "1",
+            "featureIcon": "https://cdn.filestackcontent.com/ByIm1easSdOSbRKNW3kO",
+            "featureName": "RECORDINGS",
+            "isHidden": "True",
+            "order": "1"
+        },
+        {
+            "eventId": "1",
+            "featureIcon": "https://cdn.filestackcontent.com/ByIm1easSdOSbRKNW3kO",
+            "featureName": "LIVE STREAM",
+            "isHidden": "False",
+            "order": "2"
+        }
+    ]
+}

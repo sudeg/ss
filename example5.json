@@ -1,0 +1,70 @@
+{    "events": [
+    {
+        "eventId": "1",
+        "coverImage": "https://www.creativiva.com/wp-content/uploads/2016/05/decor-blog-1.jpg",
+        "eventName": "1",
+        "eventType": "virtual",
+        "eventLocation" : "Fort Mason Center",
+        "eventDate": "04.30.2020",
+        "eventStatus":"past"
+    },
+    {
+        "eventId": "1",
+        "coverImage": "https://www.fedracongressi.com/fedra/wp-content/uploads/2016/02/revelry-event-designers-homepage-slideshow-38.jpeg",
+        "eventName": "2",
+        "eventType": "virtual",
+        "eventLocation" : "Fort Mason Center",
+        "eventDate": "04.30.2020",
+        "eventStatus":"past"
+    
+    },
+    {
+        "eventId": "1",
+        "coverImage": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8ZXZlbnR8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "eventName": "3",
+        "eventType": "virtual",
+        "eventLocation" : "Fort Mason Center",
+        "eventDate": "04.30.2020",
+        "eventStatus":"past"
+    
+    },
+    {
+        "eventId": "1",
+        "coverImage": "https://cdn.filestackcontent.com/IilWwEylS3O3ml7txF9u",
+        "eventName": "4",
+        "eventType": "virtual",
+        "eventLocation" : "Fort Mason Center",
+        "eventDate": "04.30.2020",
+        "eventStatus":"past"
+    
+    }
+],
+    "communities": [
+        {
+            "eventId": "3",
+            "communityName": "Socio Trial Community1",
+            "coverImage": "https://hire4event.com/blogs/wp-content/uploads/2019/03/best-Event-company-in-Greater-Noida-.jpg"
+        },
+        {
+            "eventId": "4",
+            "communityName": "Socio Trial Community2",
+            "coverImage": "https://cdn.filestackcontent.com/mZZw7vYMSLiRzgQdgQZV"
+        }
+    ],
+    "features": [
+        {
+            "eventId": "1",
+            "featureIcon": "https://cdn.filestackcontent.com/ByIm1easSdOSbRKNW3kO",
+            "featureName": "RECORDINGS",
+            "isHidden": "True",
+            "order": "1"
+        },
+        {
+            "eventId": "1",
+            "featureIcon": "https://cdn.filestackcontent.com/ByIm1easSdOSbRKNW3kO",
+            "featureName": "LIVE STREAM",
+            "isHidden": "False",
+            "order": "2"
+        }
+    ]
+}

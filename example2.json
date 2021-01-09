@@ -1,0 +1,65 @@
+{
+    "events": [
+        {
+            "eventId": "1",
+            "coverImage": "https://www.creativiva.com/wp-content/uploads/2016/05/decor-blog-1.jpg",
+            "eventName": "1",
+            "eventType": "virtual",
+            "eventLocation" : "Fort Mason Center",
+            "eventDate": "04.30.2020",
+            "eventStatus":"past"
+        },
+        {
+            "eventId": "1",
+            "coverImage": "https://www.l-event.net/upload/43eac6c324hnk.jpg",
+            "eventName": "2",
+            "eventType": "virtual",
+            "eventLocation" : "Fort Mason Center",
+            "eventDate": "04.30.2020",
+            "eventStatus":"past"
+        },
+        {
+            "eventId": "1",
+            "coverImage": "https://hire4event.com/blogs/wp-content/uploads/2019/03/best-Event-company-in-Greater-Noida-.jpg",
+            "eventName": "3",
+            "eventType": "virtual",
+            "eventLocation" : "Fort Mason Center",
+            "eventDate": "04.30.2020",
+            "eventStatus":"past"
+        },
+        {
+            "eventId": "1",
+            "coverImage": "https://www.newstatesman.com/sites/all/themes/creative-responsive-theme/images/new_statesman_events.jpg",
+            "eventName": "4",
+            "eventType": "virtual",
+            "eventLocation" : "Fort Mason Center",
+            "eventDate": "04.30.2020",
+            "eventStatus":"past"
+        },
+        {
+            "eventId": "1",
+            "coverImage": "https://lh3.googleusercontent.com/proxy/pP8hUpjv9I1WMF-Vr4yV7RjvrDOQhmdJlON5FicdJFtyTkMi-_TnB47aJr0gcUnYFty1SHQjEYEe_x8uEspHlMK51xovKOdK74j3ZZHyoMfyQvbWLu6JotGEPPxOBqXMLmm0CK3HgTUMww7vSQ",
+            "eventName": "5",
+            "eventType": "virtual",
+            "eventLocation" : "Fort Mason Center",
+            "eventDate": "04.30.2020",
+            "eventStatus":"past"
+        }
+    ],
+    "features": [
+        {
+            "eventId": "1",
+            "featureIcon": "https://cdn.filestackcontent.com/ByIm1easSdOSbRKNW3kO",
+            "featureName": "RECORDINGS",
+            "isHidden": "True",
+            "order": "1"
+        },
+        {
+            "eventId": "1",
+            "featureIcon": "https://cdn.filestackcontent.com/ByIm1easSdOSbRKNW3kO",
+            "featureName": "LIVE STREAM",
+            "isHidden": "False",
+            "order": "2"
+        }
+    ]
+}

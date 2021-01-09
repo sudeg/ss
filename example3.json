@@ -1,0 +1,38 @@
+{
+    "events": [
+        {
+            "eventId": "1",
+            "coverImage": "https://www.creativiva.com/wp-content/uploads/2016/05/decor-blog-1.jpg",
+            "eventName": "anilyavuztrial",
+            "eventType": "virtual",
+            "eventLocation" : "Fort Mason Center",
+            "eventDate": "04.30.2020",
+            "eventStatus":"current"
+        },
+        {
+            "eventId": "1",
+            "coverImage": "https://www.l-event.net/upload/43eac6c324hnk.jpg",
+            "eventName": "pasteertrtrvent",
+            "eventType": "virtual",
+            "eventLocation" : "Fort Mason Center",
+            "eventDate": "04.30.2020",
+            "eventStatus":"current"
+        }
+    ],
+    "features": [
+        {
+            "eventId": "1",
+            "featureIcon": "https://cdn.filestackcontent.com/ByIm1easSdOSbRKNW3kO",
+            "featureName": "RECORDINGS",
+            "isHidden": "True",
+            "order": "1"
+        },
+        {
+            "eventId": "1",
+            "featureIcon": "https://cdn.filestackcontent.com/ByIm1easSdOSbRKNW3kO",
+            "featureName": "LIVE STREAM",
+            "isHidden": "False",
+            "order": "2"
+        }
+    ]
+}
